@@ -10,6 +10,7 @@ Template includes:
 - [Laravel Sanctum](https://laravel.com/docs/sanctum) authentication
 - Email Verification enabled
 - [Laravel Debug Bar](https://laraveldebugbar.com)
+- 
 - [Laravel Telescope](https://laravel.com/docs/telescope)
 - [Laravel Livewire](https://livewire.laravel.com)
 - [Font Awesome 6 (Free)](https://fontawesom.com)
