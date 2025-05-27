@@ -26,16 +26,12 @@ This repo is arge due to the JSON documents containing the raw data for the appl
 
 ## Table of Contents
 
-TO DO: Add extra, or update the contents as needed, then remove this line.
-
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
 - [Licence](#licence)
 - [Badges](#badges)
-- [Features](#features)
-- [Tests](#tests)
 - [Contact](#contact)
 
 ## Installation
@@ -137,7 +133,7 @@ You should see:
 
 [![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
-[![Educational Community Licence][licence-shield]][licence-url]
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
