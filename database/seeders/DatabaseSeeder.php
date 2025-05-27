@@ -16,6 +16,12 @@ class DatabaseSeeder extends Seeder
 
         $this->call([
             UserSeeder::class,
+            RegionSeeder::class,
+            SubRegionSeeder::class,
+            TimezoneSeeder::class,
+            CountrySeeder::class,
+            StateSeeder::class,
+            CitySeeder::class,
 
         ]);
 
